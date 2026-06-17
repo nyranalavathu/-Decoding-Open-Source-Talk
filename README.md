@@ -35,7 +35,7 @@ and how to confidently go from outsider to contributor.
 Found us through the talk? Feel free to open an issue or reach out!
 
 - Ananya: [GitHub]([your-github](https://github.com/nyranalavathu)) | [LinkedIn]([your-linkedin](https://www.linkedin.com/in/ananyanalavathu/))
-- Dominik: [GitHub]([his-github](https://github.com/dominikkawka)) | [LinkedIn]([his-linkedin](https://www.linkedin.com/in/dominik-kawka/))
+- Dominik: [GitHub](his-github) | [LinkedIn](his-linkedin)
 
 ## License
 
