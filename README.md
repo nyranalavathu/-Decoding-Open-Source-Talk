@@ -1,8 +1,5 @@
 # -Decoding-Open-Source-Talk
 Slides and resources from our Python Monthly Dublin talk on finding your first healthy open-source community 
-# Decoding Open Source: How to Find Your First Healthy Community
-
-Slides and resources from our talk at Python Monthly Dublin — June 10, 2026.
 
 ## About the Talk
 
