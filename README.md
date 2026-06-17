@@ -9,8 +9,8 @@ and how to confidently go from outsider to contributor.
 
 ## Speakers
 
-- **Ananya Nalavathu** — Fedora Community Architect Intern, Red Hat Open Source Program Office
-- **Dominik Kawka** — Community Architect Associate, Red Hat Open Source Program Office
+- **Ananya Nalavathu** - Fedora Community Architect Intern, Red Hat Open Source Program Office
+- **Dominik Kawka** - Community Architect Associate, Red Hat Open Source Program Office
 
 ## Slides
 
@@ -38,8 +38,8 @@ Found us through the talk? Feel free to open an issue or reach out!
 
 Found us through the talk? Feel free to open an issue or reach out!
 
-- **Ananya Nalavathu** — [GitHub](https://github.com/nyranalavathu) | [LinkedIn](https://www.linkedin.com/in/ananyanalavathu/)
-- **Dominik Kawka** — [GitHub](https://github.com/dominikkawka) | [LinkedIn](https://www.linkedin.com/in/dominik-kawka/)
+- **Ananya Nalavathu** - [GitHub](https://github.com/nyranalavathu) | [LinkedIn](https://www.linkedin.com/in/ananyanalavathu/)
+- **Dominik Kawka** - [GitHub](https://github.com/dominikkawka) | [LinkedIn](https://www.linkedin.com/in/dominik-kawka/)
 
 ## License
 
